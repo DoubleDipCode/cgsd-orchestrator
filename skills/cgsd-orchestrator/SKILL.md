@@ -1,6 +1,10 @@
 ---
 name: cgsd-orchestrator
-description: Orchestrate Claude Code with the CGSD framework for reliable multi-phase project development. Use when building complex software projects, managing multi-phase implementations, or when the user needs structured AI-assisted development with atomic commits, wave-based execution, and context management. Triggers on: "build a project", "implement this feature", "multi-phase development", "use CGSD", "reliable development workflow", or any complex software task requiring planning and execution phases.
+description: Orchestrate Claude Code with the CGSD framework for reliable multi-phase project development. Use when building complex software projects, managing multi-phase implementations, or when the user needs structured AI-assisted development with atomic commits, wave-based execution, and context management. Triggers on "build a project", "implement this feature", "multi-phase development", "use CGSD", "reliable development workflow", or any complex software task requiring planning and execution phases.
+license: MIT
+metadata:
+  author: DoubleDipCode
+  version: "1.0.0"
 ---
 
 # CGSD Orchestrator
